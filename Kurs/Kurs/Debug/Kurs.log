@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_sl.h(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_sl.h(55,12): warning C4018: <: несоответствие типов со знаком и без знака
+  Kurs.vcxproj -> D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Debug\Kurs.exe
