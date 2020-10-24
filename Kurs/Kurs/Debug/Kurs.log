@@ -1,4 +1,21 @@
 ﻿  main.cpp
 D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_sl.h(35,21): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_sl.h(55,12): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_sl.h(56,12): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(30,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(44,11): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(52,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(55,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(65,66): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(67,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(68,82): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(109,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(112,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(119,23): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(126,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(134,23): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(141,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(149,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(180,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(190,28): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Kurs\class_Int.h(197,27): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
   Kurs.vcxproj -> D:\Прога 2 сем\Coursework_2nd_semestr\Kurs\Debug\Kurs.exe

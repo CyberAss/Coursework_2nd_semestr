@@ -10,12 +10,17 @@ public:
 	block(unsigned int block_unit,  block* block_prev) {
 		setUnit(block_unit);
 		setPrev(block_prev);
-		block_prev->setNext(this);
+		if(!this->isHead()) block_prev->setNext(this);
 		setNext(NULL);
 	}
 
-	bool isEmpty(block* cur) {
-		if (cur == NULL) return true;
+	bool isHead() {
+		if (this->prev == NULL) return true;
+		else return false;
+	}
+
+	bool isLast() {
+		if (this->next == NULL) return true;
 		else return false;
 	}
 
@@ -31,5 +36,16 @@ public:
 		prev = block_prev;
 	}
 	
+	block* getNext() {
+		return next;
+	}
+
+	block* getPrev() {
+		return prev;
+	}
+
+	unsigned int getUnit() {
+		return unit;
+	}
 };
 #endif

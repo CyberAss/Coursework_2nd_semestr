@@ -38,11 +38,12 @@ public:
 	}
 
 	void input(fstream& f) {
+		l = 0;
 		char s = ' ';
 		f >> noskipws;
 		while (!f.eof()) {
 			f >> s;
-			if (s != '\n' && !f.eof()) {
+			if (s != '\n' && !f.eof() && s - '0' >= 0 && s - '0' <= 9) {
 				p[l] = s;
 				l++;
 			}

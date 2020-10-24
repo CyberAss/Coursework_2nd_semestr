@@ -142,10 +142,14 @@
     <ClInclude Include="class_block.h" />
     <ClInclude Include="class_Int.h" />
     <ClInclude Include="class_sl.h" />
-    <ClInclude Include="class_tl.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ask.txt" />
+    <Text Include="input.txt" />
+    <Text Include="tests.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
